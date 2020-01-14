@@ -6,8 +6,8 @@ board = chess.Board('R5B1/3p2P1/8/4P3/rp6/bp6/br3N2/RNk1K1BQ w - - 0 1')
 #board = chess.Board('k7/1p1R4/8/7Q/4N3/8/2p5/K1N4R w - - 0 1')
 #board = chess.Board('2B5/p2Q4/1P6/2P5/3P2n1/4P1Pk/5Pp1/6K1 w - - 0 1')
 #board = chess.Board('8/2p5/6pp/2R3pk/2R5/2P3PK/6PP/8 w - - 0 1')
-#board = chess.Board('8/8/1Q6/8/1p6/k1N5/p1B5/K7 w - - 0 1')
-num_moves = 18
+board = chess.Board('8/8/1Q6/8/1p6/k1N5/p1B5/K7 w - - 0 1')
+num_moves = 4
 stor = {}
 #with open('sm_stor.pickle', 'rb') as f:
 #    stor = pickle.load(f)
